@@ -1,0 +1,2150 @@
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
+s0,'normal record',0.0
+s1,'very long text, v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+, very long text',1.0
+s2,'v
+e
+r
+y
+
+l
+o
+n
+g
+
+t
+e
+x
+t
+,
+
+v
+e
+r
+y
+ long text',2.0
+s3,'ve
+ry long text, very long text',3.0
+s4,'very 
+long 
+text, very long text',4.0
+s4,'single line record',5.0
